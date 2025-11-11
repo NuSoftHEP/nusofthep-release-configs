@@ -1,0 +1,25 @@
+packages:
+    geant4:
+      require:
+      - '@10.6.1'
+      - ~vecgeom
+      - ~qt
+    nug4:
+      require:
+      - '@=1.16.08'
+    nugen:
+      require:
+      - '@=1.21.07'
+    nurandom:
+      require:
+      - '@=1.11.05'
+    nusimdata:
+      require:
+      - '@=1.29.00'
+    nutools:
+      require:
+      - '@=3.17.01'
+    py-tensorflow:
+      prefer:
+      - '@2.15.0:'
+
