@@ -1,4 +1,8 @@
 packages:
+  artdaq-core:
+    require:
+    - 'v3_10_03'
+    - ~bundle
   cry:
     require:
     - '@=1.7'
