@@ -6,6 +6,6 @@ sha256 Checksums:
 nusofthep 3.17.01
 
 ```
-a25e85eb228fe1744f575f94664d3eafe03cc3cac5e8399906ecb5007d09c618  included_yaml/packages-nusofthep.yaml
-28c6fee7d86583521e16d13772bfa0c44f021dae7e6098bb17c71d4a48e074cb  included_yaml/specs-nusofthep.yaml
+2d8dea0b6eabcd23d54e4db44a2e20aa4a7742b06a4107bca5ca3d1bc02f29e5  included_yaml/packages-nusofthep.yaml
+d9c0e0827d133ac6e44c207352baca83bb8d601ecbed260b5980d400571a0e94  included_yaml/specs-nusofthep.yaml
 ```

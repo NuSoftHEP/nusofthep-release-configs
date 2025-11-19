@@ -9,7 +9,6 @@ packages:
   geant4:
     require:
     - '@10.6.1'
-    - ~vecgeom
     - ~qt
   nug4:
     require:

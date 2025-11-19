@@ -2,6 +2,7 @@ definitions:
 - specs_nusofthep:
   - dk2nudata %build_compiler
   - dk2nugenie %build_compiler
+  - geant4 %build_compiler
   - geant4reweight %build_compiler
   - nuevdb %build_compiler
   - nufinder
