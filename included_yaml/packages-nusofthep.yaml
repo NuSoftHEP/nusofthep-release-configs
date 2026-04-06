@@ -31,3 +31,6 @@ packages:
   py-tensorflow:
     require:
     - '@2.17'
+  nufinder:
+    require:
+    - '@1.03.00'
