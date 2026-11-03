@@ -12,7 +12,7 @@ packages:
     - ~qt
   geant4reweight:
     require:
-    - '@1.21.5'
+    - '@01.21'
   nug4:
     require:
     - '@1.17.04'
