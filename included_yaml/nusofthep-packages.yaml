@@ -5,26 +5,26 @@ packages:
     - ~bundle
   cry:
     require:
-    - '@=1.7'
+    - '@1.7'
   geant4:
     require:
     - '@11.2.2'
     - ~qt
   nug4:
     require:
-    - '@=1.17.03'
+    - '@1.17.04'
   nugen:
     require:
-    - '@=1.23.04'
+    - '@1.23.06'
   nurandom:
     require:
-    - '@=1.11.06'
+    - '@1.11.06'
   nusimdata:
     require:
-    - '@=1.29.03'
+    - '@1.29.04'
   nutools:
     require:
-    - '@=3.22.01'
+    - '@3.22.02'
   py-torch:
     require:
     - '@2.7:'
