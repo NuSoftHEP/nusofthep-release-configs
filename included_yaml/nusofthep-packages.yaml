@@ -6,31 +6,43 @@ packages:
   cry:
     require:
     - '@1.7'
+  dk2nudata:
+    require:
+    - '@1.12'
+  dk2nugenie:
+    require:
+    - '@1.12'
+  genie:
+    require:
+    - '@3.06.02'
   geant4:
     require:
     - '@11.2.2'
     - ~qt
   geant4reweight:
     require:
-    - '@01.21'
+    - '@01.24'
   ppfx:
     require:
-    - '@02.21'
+    - '@02.22'
   nug4:
     require:
-    - '@1.17.04'
+    - '@1.20.00'
   nugen:
     require:
-    - '@1.23.06'
+    - '@1.25.00'
   nurandom:
     require:
-    - '@1.11.06'
+    - '@1.12.00'
   nusimdata:
     require:
-    - '@1.29.04'
+    - '@1.30.00'
+  nusystematics:
+    require:
+    - '@1.08.00'
   nutools:
     require:
-    - '@3.22.02'
+    - '@3.24.00'
   py-torch:
     require:
     - '@2.7:'
@@ -39,4 +51,7 @@ packages:
     - '@2.17'
   nufinder:
     require:
-    - '@1.03.01'
+    - '@1'
+  systematicstools:
+    require:
+    - '@1.06"
