@@ -54,4 +54,4 @@ packages:
     - '@1'
   systematicstools:
     require:
-    - '@1.06"
+    - '@1.06'
