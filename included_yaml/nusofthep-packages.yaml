@@ -13,6 +13,9 @@ packages:
   geant4reweight:
     require:
     - '@01.21'
+  ppfx:
+    require:
+    - '@02.21'
   nug4:
     require:
     - '@1.17.04'
